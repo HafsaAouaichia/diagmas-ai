@@ -1408,8 +1408,7 @@ elif mode == "📈 Comparaison":
 st.markdown("---")
 st.markdown(
     "<div style='text-align:center;color:#5a7090;font-size:0.75rem;letter-spacing:1px'>"
-    "DiagMAS-AI &nbsp;·&nbsp; Université Mohamed Boudiaf M'Sila &nbsp;·&nbsp; "
-    "Diagnostic des défauts dans le moteur asynchrone &nbsp;·&nbsp; 2024-2025"
+   
     "</div>",
     unsafe_allow_html=True
 )
