@@ -1,0 +1,37 @@
+# Environnements
+streamlit/
+streamlit_env/
+venv/
+env/
+
+# Données brutes
+cwru_data/
+mfpt_data/
+paderborn_data/
+paderborn_raw/
+
+# Caches
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# Fichiers temporaires
+*.db
+*.log
+*.json
+*.png
+*.csv
+*.pdf
+*.backup.pkl
+
+# Outputs volumineux (sauf le modèle)
+outputs/data/
+outputs/plots/
+
+# Tests
+tests/
+validation/
+
+# IDE
+.vscode/
+.idea/
